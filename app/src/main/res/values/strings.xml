@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">HorizonFM</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_more">More</string>
+    <string name="title_live">Live now</string>
+    <string name="title_blog">Blog</string>
+    <string name="title_about">About</string>
+    <string name="title_news">News</string>
+    <string name="title_lifestyle">LifeStyle</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="title_twitter">Twitter</string>
+    <string name="title_linkedin">LinkedIn</string>
+    <string name="title_googleplus">Google Plus</string>
+    <string name="title_youtube">Youtube</string>
+    <string name="title_ireporter">iReporter</string>
+    <string name="title_feedback">Feedback</string>
+
+    <string name="titile_action_bar">Horizon FM Dutse</string>
+
+
+    <string-array name="more_menu_list">
+        <item>About</item>
+        <item>News</item>
+        <item>Lifestyle</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>LinkedIn</item>
+        <item>Google Plus</item>
+        <item>Youtube</item>
+        <item>iReporter</item>
+        <item>Feedback</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hide_bottom_view_on_scroll_behavior">HideBottomViewOnScrollBehavior</string>
+    <string name="title_activity_horizon_fmsplash_screen">HorizonFMSplashScreen</string>
+
+    <string name="aboutus_text">
+        Horizon FM 100.5 Dutse is a Radio Nigeria FM station  established by the Federal Government to provide local coverage of people, issues and events in Jigawa State.
+         \n
+        Each of the 36 states of Nigeria and the Federal Capital Territory Abuja has at least one of these stations, under the direct supervision of the much bigger National Station located in the  geo-political zone, which serves as Zonal Headquarters, and the link to the National Headquarters at Radio House Abuja.
+        \n Horizon FM 100.5 Dutse also joins the network service of Radio Nigeria to convey to local listeners the Radio Nigeria national network news live in real time.
+         \n
+        Horizon FM 100.5 Dutse is located in Fatara district of Dutse which is within the Kiyawa Local Government Area, directly opposite the new stadium being constructed in Dutse.
+
+    </string>
+</resources>

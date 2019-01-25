@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/mediumgreen"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/txtclose"
+        android:layout_width="19dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:background="@drawable/circlebackground"
+        android:gravity="center"
+        android:text="X"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="59dp"
+        android:layout_height="54dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@color/mediumgreen"
+        android:src="@drawable/ic_horizonfm" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginTop="2dp"
+        android:background="@color/mediumgreen"
+        android:text="Horizon FM Dutse 100.5 Mhz \n "
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>
