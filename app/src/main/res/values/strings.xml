@@ -47,4 +47,7 @@
         Horizon FM 100.5 Dutse is located in Fatara district of Dutse which is within the Kiyawa Local Government Area, directly opposite the new stadium being constructed in Dutse.
 
     </string>
+    <!-- Provide locally; do not commit real credentials -->
+    <string name="feedback_smtp_user" translatable="false"></string>
+    <string name="feedback_smtp_password" translatable="false"></string>
 </resources>

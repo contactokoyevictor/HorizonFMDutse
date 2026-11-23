@@ -190,7 +190,9 @@ public class FeedbackFragment extends Fragment {
             @Override
             public void run() {
                 try {
-                    GmailSender sender = new GmailSender("horizonfmdutsejigawa@gmail.com", "J1gawa$tat3");
+                    GmailSender sender = new GmailSender(
+                            getString(R.string.feedback_smtp_user),
+                            getString(R.string.feedback_smtp_password));
                     sender.sendMail(""+subject,
                             ""+message+"\n\n\n\n\n"+"sender email :"+senderEmail,
                             ""+senderEmail,
